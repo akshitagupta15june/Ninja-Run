@@ -1,5 +1,7 @@
 # Ninja-Run
 
+Try it here https://run-ninja.netlify.app/
+
 ## Inspiration
 
 The Ninja Run Game where you can play it very easily.

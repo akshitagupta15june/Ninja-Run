@@ -1,6 +1,6 @@
 # Ninja-Run
 
-Try it here https://run-ninja.netlify.app/
+Try it here https://run-ninja.netlify.app/ or https://i-am-the-ultimate-ninja.us/
 
 ## Inspiration
 
